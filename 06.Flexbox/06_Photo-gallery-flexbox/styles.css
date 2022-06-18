@@ -1,0 +1,13 @@
+body {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    display: flex;
+    border: solid 10px black;
+}

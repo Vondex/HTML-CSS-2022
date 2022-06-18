@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-color: rgb(238, 238, 238);
+}
+
+section.container {
+    display: flex;
+    margin-top: 12%;
+}
+
+
+
+.first {
+    width: 200px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 1);
+}
+
+img {
+    margin: 25px;
+    border-radius: 10px;
+}
+
+.second {
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 1);
+}
